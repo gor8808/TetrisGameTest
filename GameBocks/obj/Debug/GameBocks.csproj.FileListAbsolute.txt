@@ -1,0 +1,6 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\TetrisGame\GameBocks\bin\Debug\GameBocks.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\TetrisGame\GameBocks\bin\Debug\GameBocks.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\TetrisGame\GameBocks\obj\Debug\GameBocks.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\TetrisGame\GameBocks\obj\Debug\GameBocks.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\TetrisGame\GameBocks\obj\Debug\GameBocks.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\TetrisGame\GameBocks\obj\Debug\GameBocks.pdb
